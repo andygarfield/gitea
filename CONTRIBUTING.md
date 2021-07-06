@@ -75,11 +75,11 @@ Here's how to run the test suite:
 
 |                       |                                                                   |
 | :-------------------- | :---------------------------------------------------------------- |
-|``make lint``          | lint everything (not suggested if you only change one type code)    |
+|``make lint``          | lint everything (not suggested if you only change one code type)    |
 |``make lint-frontend`` | lint frontend files  |
 |``make lint-backend``  | lint backend files   |
 
-- run test code (Suggest run in linux)  
+- run test code (suggest run in linux)  
 
 |                                        |                                                  |
 | :------------------------------------- | :----------------------------------------------- |
